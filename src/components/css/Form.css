@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    width: 100vw;
+    background-color: palevioletred;
+    margin-bottom: 50px;
+
+}
+
+.form input{
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    min-width: 25%;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.form button{
+    padding: 5px;
+    border-radius: 10px;
+    min-width: 10%;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: bold;
+}
